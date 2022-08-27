@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/f70ceb72-6753-4b0b-a802-506e1e5055d9/microsoft.web/sites/subscriptions/f70ceb72-6753-4b0b-a802-506e1e5055d9/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/hrshop",
+    "appService.deploySubpath": "."
+}
